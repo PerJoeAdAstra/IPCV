@@ -1,0 +1,5 @@
+int radmin = 20;
+int radmax = 200;
+int radGrain = 1;
+
+float edge_thr = 100;
